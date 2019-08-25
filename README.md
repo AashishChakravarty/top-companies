@@ -1,2 +1,51 @@
-# top-companies
-list of top companies
+# Top Companies
+List of top companies
+
+ - [Product Based](#product-based)
+ - [Service Based](#service-based)
+
+## Product Based
+1.  Microsoft
+2.  Google
+3.  IBM
+4.  Amazon
+5.  EMC
+6.  BMC
+7.  Paypal
+8.  Oracle
+9.  CISCO
+10.  VMWare
+11.  Redhat
+12.  Drupal
+13.  Allscripts
+14.  Amdocs
+15.  Symantec
+16.  Adobe
+17. Zoho
+18.  Druva
+19.  Tally
+20.  Eka
+21.  QuickHeal
+22.  Capillary
+23.  Sapience
+24.  PubMatic
+25.  InMobi
+26.  AdNear
+27.  BrowserStack
+28.  Freshdesk
+29.  Newgen
+30.  Nucleus Software
+31.  CRMNext
+32.  Ramco
+33.  Persistent
+34.  Vserv
+35.  Wingify
+36.  MindTree
+37.  SunTec
+
+## Service Based
+ 1. TCS
+ 2. Wipro
+ 3. Infosys
+ 4. TechMahindra
+ 5. Accenture
