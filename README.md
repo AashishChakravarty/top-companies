@@ -42,6 +42,17 @@ List of top companies
 35.  Wingify
 36.  MindTree
 37.  SunTec
+38. Apple
+39. Facebook
+40. Quora
+41. Twitter
+42. LinkedIn
+43. Uber
+44. Ola
+45. Flipkart
+46. OLX
+47. Quikr
+48. OYO Rooms
 
 ## Service Based
  1. TCS
