@@ -5,15 +5,15 @@ List of top companies
  - [Service Based](#service-based)
 
 ## Product Based
-1.  Microsoft
+1.  [Microsoft](https://www.geeksforgeeks.org/microsoft-recruitment-process/)
 2.  Google
 3.  IBM
-4.  Amazon
+4.  [Amazon](https://www.geeksforgeeks.org/amazon-recruitment-process)
 5.  EMC
 6.  BMC
 7.  Paypal
 8.  Oracle
-9.  CISCO
+9.  [CISCO](https://www.geeksforgeeks.org/cisco-recruitment-process/)
 10.  VMWare
 11.  Redhat
 12.  Drupal
