@@ -49,10 +49,10 @@ List of top companies
 42. LinkedIn
 43. Uber
 44. Ola
-45. Flipkart
+45. [Flipkart](https://www.geeksforgeeks.org/flipkart-recruitment-process/)
 46. OLX
-47. Quikr
-48. OYO Rooms
+47. [Quikr](https://www.geeksforgeeks.org/quikr-recruitment-process/)
+48. [OYO Rooms](https://www.geeksforgeeks.org/oyo-rooms-recruitment-process/)
 
 ## Service Based
  1. TCS
